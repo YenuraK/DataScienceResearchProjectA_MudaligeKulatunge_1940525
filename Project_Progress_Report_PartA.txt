@@ -1,0 +1,538 @@
+--- Page 1 ---
+Project Progress Report (Part A)
+Due Monday  by 17:00
+Points  36
+Submitting  a file upload
+File types  pdf
+Available  until 25 Nov at 17:00
+Final Report MDSStart Assignment
+In this work, you will record your progress to date. W e recommend employing this LaT eX template
+ (https://protect-au.mimecast.com/s/xkC7CE8wo2IlXqyyhw30HS?domain=overleaf.com) , or following
+the advice of your supervisor , but in any case your report should be a pdf. 
+Discuss your particular project and goals with your supervisor to decide how to structure your report.
+When we mark your report, we will aim to provide feedback that guides you to improve your report
+writing and analysis. 
+Specific recommendations
+1. Take the time to explain your work. For each figure/code/result: why was this important enough to
+include? Describe what the figure/etc shows. Explain what the results mean. Remember that we can
+only mark the understanding that you demonstrate in the report. 
+2. Include figures! Use captions in the figure to point out which part of the report the figure is relevant
+to, and make sure to reference those figures in the corresponding section of the report. 
+ 
+The project report has a word limit of 6000 words . We encourage you to keep the introduction
+sections brief; we have already read those. Most of the report should be about your work. 
+ 
+ 18/11/2025, 16:44 Project Progress Report (Part A)
+https://myuni.adelaide.edu.au/courses/105351/assignments/464281 1/5
+
+--- Page 2 ---
+Criteria Ratings Pts
+Overall
+3 pts
+English
+3 pts
+Figures and
+Tables3 pts3 Pts
+Excellent
+A good report
+template is used
+and enhanced
+when
+appropriate, for
+instance, by
+creating new
+sections.2 Pts
+Good
+Template is used,
+though it is
+followed too
+closely for the
+given material,
+for example an
+opportunity was
+missed to
+customise it in
+some way to
+good effect.1 Pts
+Adequate
+Some careless
+variations from
+the template, or
+failure to update
+obvious
+components
+such as skeleton
+section headings.0 Pts
+Inadequate
+The template is
+not used, or
+broken in some
+way.
+3 Pts
+Excellent
+Grammar and
+spelling are all
+correct, and
+stylistically
+appealing. A
+formal style is
+preferred, with
+some allowed
+variation for
+read- ability.2 Pts
+Good
+Grammar and
+spelling are all
+correct (barring 1
+or 2 minor typos).
+Style is at least
+consistent.1 Pts
+Adequate
+There are more
+than 1 or 2 typos,
+but broadly
+correct use of
+English. Style is
+reasonable, but
+sometimes
+inconsistent.0 Pts
+Inadequate
+Frequent
+significant gram-
+matical mistakes
+(e.g.,
+inconsistent use
+of tense,
+incorrect or
+ambiguous pro-
+nouns, missing
+or incorrect
+definite and
+indefinite articles,
+...). Repeated
+spelling
+mistakes. Other
+poor use of
+language,
+including overly
+informal
+language, or
+overuse of, for
+instance, passive
+constructions, or
+uninformative
+abstract nouns
+(e.g., thing).
+3 Pts
+Excellent
+Tables and
+figures add to the2 Pts
+Good
+Tables and
+figures are: (1)1 Pts
+Adequate
+Most tables and
+figures are0 Pts
+Inadequate
+Uncaptioned
+tables or figures.18/11/2025, 16:44 Project Progress Report (Part A)
+https://myuni.adelaide.edu.au/courses/105351/assignments/464281 2/5
+
+--- Page 3 ---
+Criteria Ratings Pts
+Structure
+3 pts
+Mathematics/code3 ptsenjoyment of
+reading the
+report.appropriate to
+the story being
+told, (2) well
+captioned, (3)
+clearly readable,
+and (4) explained
+in the text (as
+well as captions).appropriate, but
+there are some
+deviations from
+the above, for
+instance, some
+figures that add
+little to underlying
+message of the
+report.Unlabelled axes.
+Illegible labels or
+other data. Poor
+import of figures
+(e.g., resulting in
+pixelisation).
+3 Pts
+Excellent
+Sections and
+other structures
+relate well to the
+material covered,
+and help make
+the report more
+readable.2 Pts
+Good
+Document
+structures are
+appropriate, but
+not edifying.1 Pts
+Adequate
+Sections,
+paragraphs or
+other document
+structures mostly
+appropriate, but
+are sometimes
+awkward, or
+material
+contained in
+them is not
+logically part of
+that section.0 Pts
+Inadequate
+Sections or other
+structures are
+badly chosen.
+Required
+sections, e.g.,
+abstract,
+introduction or
+conclusion are
+missing.
+3 Pts
+Excellent
+Included
+mathematics is
+appealing, well-
+integrated with
+the text, and
+follows all
+required
+conventions
+(e.g.,
+punctuation of
+equations,
+colouring of
+variables, ...).
+Code is included
+(in an appendix if
+not directly
+relevant to the
+discussion in the
+report) and
+neatly presented.
+Notation is well-2 Pts
+Good
+Mathematical
+typesetting is
+appropriate.
+Mathematical
+conventions are
+respected.
+Notation is well-
+defined, and
+consistent.1 Pts
+Adequate
+All correct, but
+poorly typeset in
+places, or some
+typos, e.g.,
+occasional
+missing
+punctuation. Poor
+integration of
+mathematics/code
+with text, e.g.,
+banks of
+unexplained
+equations or
+functions, not
+described in the
+text.0 Pts
+Inadequate
+Frequently
+undefined
+notation, or
+inconsistent
+notations (for
+instance the
+same symbol
+used to mean
+two different
+things).18/11/2025, 16:44 Project Progress Report (Part A)
+https://myuni.adelaide.edu.au/courses/105351/assignments/464281 3/5
+
+--- Page 4 ---
+Criteria Ratings Pts
+Evidence of
+understanding
+3 pts
+Focus
+3 pts
+Organisation3 ptsdefined, and
+consistent.
+3 Pts
+Excellent
+Assumptions and
+limitations are
+clearly stated.
+Clear
+explanations of
+advantages and
+disadvantages of
+techniques.
+Compelling
+descriptions of
+real instantiations
+of techniques,
+e.g., via
+simulation
+results.2 Pts
+Good
+Assumptions and
+limitations are
+clearly stated.
+Examples are
+used to illustrate
+key ideas.1 Pts
+Adequate
+Some (trivial)
+innaccuracies or
+mistakes in
+derivations.
+Ideas are
+explained but
+only by
+paraphrasing
+existing texts, or
+the explanations
+are not clear, or
+with only few
+examples.0 Pts
+Inadequate
+Frequent missing
+assumptions or
+discussion of
+limitations.
+Frequent
+inaccuracies, or
+incorrect
+derivations.
+Incorrect
+statistical
+techniques
+applied to data.
+3 Pts
+Excellent
+Work is well
+motivated.
+Extraneous
+points are well
+sign-posted, so
+that they do not
+distract from the
+main point of the
+report.
+Information is
+presented at the
+correct level for
+the audience.2 Pts
+Good
+The message of
+the report is clear
+and concise.
+Information is at
+the correct level
+for the audience.1 Pts
+Adequate
+Some
+digressions or
+extraneous
+material, or
+material that
+makes incorrect
+assumptions
+about the
+audience level of
+knowledge.0 Pts
+Inadequate
+The work
+contains a mass
+of incoherent
+material, making
+it hard to
+understand the
+underlying
+message of the
+report. Missing
+details make the
+material
+unreadable to the
+intended
+audience.
+3 Pts
+Excellent
+Information
+presented in
+logical and
+interesting
+sequence. Goals
+and results of
+work are clear.2 Pts
+Good
+Information
+presented in a
+logical sequence,
+e.g., terms
+defined before or
+during use, and
+ideas introduced
+in a sequence1 Pts
+Adequate
+Information not
+always presented
+in a logical
+sequence, or
+transitions
+between topics
+are weak, but
+overall sequence0 Pts
+Inadequate
+Information not
+presented in a
+logical sequence.18/11/2025, 16:44 Project Progress Report (Part A)
+https://myuni.adelaide.edu.au/courses/105351/assignments/464281 4/5
+
+--- Page 5 ---
+Criteria Ratings Pts
+References
+3 pts
+Data/experiments
+3 pts
+Working and
+planning
+independently
+6 pts
+Total points: 36that builds
+understanding of
+the topic.is still possible to
+understand.
+3 Pts
+Excellent
+References
+support ideas
+well. All sources
+are correctly
+attributed.
+Bibliography is
+well formatted.2 Pts
+Good
+All sources are
+correctly
+attributed.
+Bibliography is
+well formatted.1 Pts
+Adequate
+References are
+mostly used
+correctly, but with
+some formatting
+or other
+problems.0 Pts
+Inadequate
+Incorrect
+references.
+Poorly formatted
+bibliography.
+References are
+not cited in the
+text.
+3 Pts
+Excellent
+Any data used is
+described in
+detail. Any
+experiments are
+described at a
+level of detail
+sufficient for
+reproducibility.2 Pts
+Good
+Data and
+experiments are
+described in
+sufficient detail,
+but the
+description is
+overly tedious or
+awkward.1 Pts
+Adequate
+Data and
+experiments are
+mostly described,
+but the reader is
+left with some
+questions.0 Pts
+Inadequate
+Data not
+described.
+Simulations or
+other
+experiments not
+described.
+6 Pts
+Excellent
+Strong evidence
+of working and
+planning
+independently.
+Substantial
+initiative shown
+in tackling the
+research
+question, and
+pursuing the
+direction of the
+individual project
+independently, to
+produce a high
+quality report.4 Pts
+Good
+Considerable
+interest shown in
+the project, as
+well as a
+willingness to
+pursue an
+independent
+direction with
+minimal guidance
+from the project
+supervisor.2 Pts
+Adequate
+Some initiative
+shown, but
+largely doing the
+bare minimum
+required in the
+project, and
+relying mostly (or
+entirely) on the
+direction of the
+project
+supervisor.0 Pts
+Inadequate
+Little to no
+interest in the
+project. No
+evidence shown
+of striving toward
+independently
+planning and
+working on the
+research
+question.18/11/2025, 16:44 Project Progress Report (Part A)
+https://myuni.adelaide.edu.au/courses/105351/assignments/464281 5/5

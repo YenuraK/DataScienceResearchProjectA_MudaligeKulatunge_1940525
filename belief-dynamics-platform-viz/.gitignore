@@ -1,0 +1,21 @@
+# MATLAB generated files
+*.asv
+*.mex*
+*.mat
+*.m~
+*.tmp
+
+# Figures / outputs
+figures/
+results/
+output/
+*.png
+*.jpg
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE
+.vscode/
+.idea/
